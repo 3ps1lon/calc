@@ -1,0 +1,151 @@
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Android/QT/Tools/mingw810_64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+3
+Cannot create temporary file in C:\WINDOWS\: Permission denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Android/QT/Tools/mingw810_64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+3
+Cannot create temporary file in C:\WINDOWS\: Permission denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Android/QT/Tools/mingw810_64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Android/QT/Tools/mingw810_64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Android/QT/Tools/mingw810_64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command line option '--target=arm-arm-none-eabi'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Android/QT/Tools/mingw810_64/bin/g++.exe 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+3
+Cannot create temporary file in C:\WINDOWS\: Permission denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Android/QT/Tools/mingw810_64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+3
+Cannot create temporary file in C:\WINDOWS\: Permission denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Android/QT/Tools/mingw810_64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+3
+Cannot create temporary file in C:\WINDOWS\: Permission denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Android/QT/Tools/mingw810_64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Android/QT/Tools/mingw810_64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: unrecognized command line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Android/QT/Tools/mingw810_64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command line option '--target=arm-arm-none-eabi'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Android/QT/Tools/mingw810_64/bin/g++.exe 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+3
+Cannot create temporary file in C:\WINDOWS\: Permission denied
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/famal/Documents/build-calculate-Desktop_Qt_6_2_1_MinGW_64_bit-u0412u044bu043fu0443u0441u043a/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Android/QT/Tools/Ninja/ninja.exe cmTC_f8674 && [1/2] Building CXX object CMakeFiles\cmTC_f8674.dir\CMakeCXXCompilerABI.cpp.obj
+FAILED: CMakeFiles/cmTC_f8674.dir/CMakeCXXCompilerABI.cpp.obj 
+C:\Android\QT\Tools\mingw810_64\bin\g++.exe    -o CMakeFiles\cmTC_f8674.dir\CMakeCXXCompilerABI.cpp.obj -c C:\Android\QT\Tools\CMake_64\share\cmake-3.21\Modules\CMakeCXXCompilerABI.cpp
+Cannot create temporary file in C:\WINDOWS\: Permission denied
+ninja: build stopped: subcommand failed.
+
+
+
+
+Determining if the CXX compiler works failed with the following output:
+Change Dir: C:/Users/famal/Documents/build-calculate-Desktop_Qt_6_2_1_MinGW_64_bit-u0412u044bu043fu0443u0441u043a/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Android/QT/Tools/Ninja/ninja.exe cmTC_fc0e5 && [1/2] Building CXX object CMakeFiles\cmTC_fc0e5.dir\testCXXCompiler.cxx.obj
+FAILED: CMakeFiles/cmTC_fc0e5.dir/testCXXCompiler.cxx.obj 
+C:\Android\QT\Tools\mingw810_64\bin\g++.exe    -o CMakeFiles\cmTC_fc0e5.dir\testCXXCompiler.cxx.obj -c C:\Users\famal\Documents\build-calculate-Desktop_Qt_6_2_1_MinGW_64_bit-u0412u044bu043fu0443u0441u043a\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+Cannot create temporary file in C:\WINDOWS\: Permission denied
+ninja: build stopped: subcommand failed.
+
+
+
